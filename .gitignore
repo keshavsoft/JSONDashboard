@@ -1,21 +1,8 @@
 .vscode/
 node_modules/
 
-/KData
-
 web.config
 
 /common-
-
-/Projects/JSONAdminApi
-/Projects/JSONImport
-/Projects/JSONUser
-/Projects/Tally
-/Projects/JSONReports
-
-/public/JSONUser
-/public/Tally
-/public/JSONReports
-/public/JSONAdminApi
 
 .env
